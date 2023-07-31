@@ -1,5 +1,5 @@
 # ESPi_Hardware
-<img src ="" />
+<img src ="https://github.com/sbcshop/ESPi_Software/blob/main/images/ESPi%20Banner.jpg" />
 
 ESPi, with its powerful ESP32 and Ethernet, is the ideal answer for your networking requirements. Along with WiFi, this board supports a variety of internet protocols, including TCP, UDP, WOL over UDP, ICMP, IPv4, and others.
 
